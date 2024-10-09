@@ -15,7 +15,7 @@
 - Паремтры выводятся на соответсвующие поля отдельно ('Имя') и ('Фамилия').
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/727d832f-3df5-4865-b55a-442770ccd40c" width="250"> 
+    <img src="https://github.com/user-attachments/assets/32fd4a64-4334-4547-b8bc-90913f139833" width="250"> 
     <img src="https://github.com/user-attachments/assets/86c85091-de21-4937-a1bc-54bb1d5c5551" width="250">
 </p> 
 
